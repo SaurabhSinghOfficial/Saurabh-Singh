@@ -4,7 +4,7 @@
 <img align="right"alt="coding"width="400"src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FZAR_FAWN0lu2QP80ugvAfOnWcJ3acz7Rk">
 - 🌱 I’m currently learning **mern full stack development**
 
-- 📫 How to reach me **saurabhsingh68442gmail.com**
+- 📫 How to reach me **saurabhsingh6844gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
